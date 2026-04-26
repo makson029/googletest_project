@@ -79,7 +79,7 @@ googletest_project/
     }
 
     TEST(MathTest, AddNegativeNumbers) {
-        EPECT_EQ(Add(5, 5), 100);
+        EPECT_EQ(Add(5, 5), 10);
     }
 ```
 3. Добавьте линк на ваш файл в tests/CMakeLists.txt 
