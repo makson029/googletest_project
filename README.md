@@ -23,8 +23,8 @@
 
 **1. Клонируй репозиторий:**
 ```bash
-git clone https://github.com/твой-username/твой-репозиторий.git
-cd твой-репозиторий
+git clone github.com/makson029/googletest_project.git
+cd googletest_project
 ```
 
 **2. Создай папку сборки:**
