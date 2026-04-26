@@ -50,6 +50,10 @@ ctest --output-on-failure
 cmake --build . --target test
 ```
 
+## Демонстрация процесса
+
+[![asciicast](https://asciinema.org/a/yFnqpVP5jbg76Lje.svg)](https://asciinema.org/a/yFnqpVP5jbg76Lje)
+
 ## Структура проекта
 
 ```CMake
