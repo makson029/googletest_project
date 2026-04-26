@@ -93,7 +93,7 @@ googletest_project/
         my_test.cpp                  # Мои тесты
     )
 ```
-4. Пересобери проект:
+4. Пересоберите проект:
 ```Bash
     cmake --build .
 ```
