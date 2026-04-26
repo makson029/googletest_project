@@ -23,7 +23,7 @@
 
 **1. Клонируй репозиторий:**
 ```bash
-git clone github.com/makson029/googletest_project.git
+git clone https://github.com/makson029/googletest_project.git
 cd googletest_project
 ```
 
