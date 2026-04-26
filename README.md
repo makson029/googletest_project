@@ -51,6 +51,7 @@ cmake --build . --target test
 ```
 
 Демонстрация процесса
+[![asciicast](https://asciinema.org/a/dMHFDDy7A66QZiMnqQcQitEh9.svg)](https://asciinema.org/a/dMHFDDy7A66QZiMnqQcQitEh9)
 [![asciicast](https://asciinema.org/a/yFnqpVP5jbg76Lje.svg)](https://asciinema.org/a/yFnqpVP5jbg76Lje)
 
 ## Структура проекта
